@@ -6,6 +6,12 @@ var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 var rules = [
   // "ip138.com",
   "githubusercontent.com",
+  "npmjs.org",
+  "npmjs.com",
+  "travis-ci.org",
+  "appveyor.com",
+  "coveralls.io",
+  "david-dm.org",
   "burrelllll.com",
   "github.io",
   "disqus.com",
