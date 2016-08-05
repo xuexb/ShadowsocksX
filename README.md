@@ -12,4 +12,3 @@ git clone https://github.com/xuexb/ShadowsocksX.git ~/.ShadowsocksX
 
 ### windows
 
-todo
