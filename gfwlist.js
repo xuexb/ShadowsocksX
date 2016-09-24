@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "developer.mozilla.org",
   "caniuse.com",
   "mochajs.org",
   "trello.com",
