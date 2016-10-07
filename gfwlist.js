@@ -4,6 +4,8 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "disq.us",
+  "disquscdn.com",
   "unsplash.it",
   "developer.mozilla.org",
   "caniuse.com",
