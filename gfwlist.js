@@ -4,6 +4,10 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "preloaders.net",
+  "loadingapng.com",
+  "loadinggif.com",
+  "ajaxload.info",
   "disq.us",
   "disquscdn.com",
   "unsplash.it",
