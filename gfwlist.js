@@ -15,6 +15,8 @@ var rules = [
   "ipsumimage.appspot.com",
   "placekitten.com",
   "flickholdr.com",
+  "lorempixel.com",
+  "placeimg.com",
 
   "tjholowaychuk.com",
   "yarnpkg.com",
