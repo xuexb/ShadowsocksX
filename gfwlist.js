@@ -4,7 +4,18 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  // 图片占位
   "temp.im",
+  "img.la",
+  "placehold.it",
+  "dummyimage.com",
+  "fpoimg.com",
+  "placebox.es",
+  "nosrc.net",
+  "ipsumimage.appspot.com",
+  "placekitten.com",
+  "flickholdr.com",
+
   "tjholowaychuk.com",
   "yarnpkg.com",
   "js.org",
@@ -52,7 +63,6 @@ var rules = [
   "burrelllll.com",
   "github.io",
   "disqus.com",
-  "dummyimage.com",
   "github.com",
   "babeljs.io",
   ".lsxszzg.com",
