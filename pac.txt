@@ -2,6 +2,18 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "apple.com": 1,
+  "alfredapp.com": 1,
+  "atlassian.com": 1,
+  "ipsw.me": 1,
+  "sublimetext.com": 1,
+  "lebab.io": 1,
+  "sketchapp.com": 1,
+  "computershare.com": 1,
+  "startssl.com": 1,
+  "docker.com": 1,
+  "greenkeeper.io": 1,
+
   // 图片占位
   "temp.im": 1,
   "img.la": 1,
