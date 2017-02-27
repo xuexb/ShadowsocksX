@@ -2,6 +2,8 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
+  "amazonaws.com": 1,
+  "opensource.guide": 1,
   "apple.com": 1,
   "alfredapp.com": 1,
   "atlassian.com": 1,
