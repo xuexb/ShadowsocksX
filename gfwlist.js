@@ -4,10 +4,11 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "juicer.name",
   "cloudfront.net",
   "amazonaws.com",
   "opensource.guide",
-  "apple.com",
+  // "apple.com",
   "alfredapp.com",
   "atlassian.com",
   "ipsw.me",
