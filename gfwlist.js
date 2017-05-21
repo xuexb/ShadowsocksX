@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "codetrace.io",
   "ampbyexample.com",
   "elastic.co",
   "uptimerobot.com",
@@ -792,7 +793,7 @@ var rules = [
   ".dalailamavisit.org.nz",
   ".dailidaili.com",
   "||dailidaili.com",
-  ".dailymotion.com",
+  "dailymotion.com",
   ".dajiyuan.com",
   ".dajiyuan.eu",
   "dalailama.com",
