@@ -4,6 +4,9 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "bithound.io",
+  "codacy.com",
+  "codebeat.co",
   "jshell.net",
   "ubuntu.com",
   "chaijs.com",
