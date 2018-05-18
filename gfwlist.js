@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "googletagmanager.com",
   "mubu.app",
   "bfe.app",
   "googleblog.com",
@@ -11,9 +12,6 @@ var rules = [
   "office.com",
   "get.app",
   "1password.com",
-  "huobi.pro",
-  "huobipro.com",
-  "huobi.com",
   "axios.com",
   "mozilla.net",
   "netlify.com",
