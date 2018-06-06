@@ -4,6 +4,10 @@
 var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
+  "fonts.googleapis.com",
+  "gogs.io",
+  "gitbooks.io",
+  "googleapis.com",
   "webpack.js.org",
   "googletagmanager.com",
   "mubu.app",
